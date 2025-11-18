@@ -1,5 +1,10 @@
 # Fetch VPC and EC2 Details
 
+[section:overview]
+
+### Overview
+In the section we are going to fetch AWS resources details in the region `us-east-1` (eg. VPCs and EC2 instances), then save all deatils in JSON or text format.
+
 [section:implementing steps]
 ### Implemneting Steps
 
